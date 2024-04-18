@@ -1,0 +1,12 @@
+<html>
+<head>
+       <title> image tag </title>
+ 
+</head>
+<body> 
+      <img src = puppy1.https://th.bing.com/th/id/R.da2a7272265cdf28df88178f236a7440?rik=qsEg3R5zjDJbMA&riu=http%3a%2f%2fbeautyful-pictures.webs.com%2fphotos%2fCute-Puppies%2fpuppy-lab-HD-wallpaper.jpg&ehk=3AhF1H0y0JziJUO5VERVRGbJU0A5p9EV2gnNziobxTI%3d&risl=&pid=ImgRaw&r=0
+     <img src=https://th.bing.com/th/id/OIP.udhtqEGoscMLdzC0BCejugHaF3?rs=1&pid=ImgDetMain
+       
+     <img src=https://digital-photography-school.com/wp-content/uploads/2010/04/beetlecam-7.jpg">
+<>/body>
+</html>

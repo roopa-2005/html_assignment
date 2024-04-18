@@ -1,0 +1,16 @@
+<html>
+<head>
+     <title>anchor Tag </title>
+</head>
+<body>
+      <a href="https://www.amazon.in">
+      click here to stop 
+     </a>
+     <br>
+     <br>
+     a href="https:www.amazon.in">
+     img src=https://th.bing.com/th/id/OIP.LkUNRz5qXqe2j6BKfAhLjwHaMK?pid=ImgDet&w=195&h=320&c=7&dpr=1.3">
+     </a>
+</body>
+<html>
+     
